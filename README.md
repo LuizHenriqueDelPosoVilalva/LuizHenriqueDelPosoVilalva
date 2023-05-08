@@ -2,7 +2,7 @@
 
 <div>
 <a style="text-align: right; padding: 0px;" href="https://youtu.be/eLXdZ5K89rA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/luiz-henrique-delposovilalva/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luiz-henrique-delposovilalva/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <h4 style="text-align: center">Atualmente estudando:</h4>
