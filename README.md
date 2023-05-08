@@ -24,5 +24,5 @@ aprendo rapido e gosto de trabalhar, mais sobre mim: <a href="https://meu-portfo
 
 Atualmente estou aprendendo Python e TypeScript, tenho alguns projetos concluidos com React, todos eles no portfólio acima, e mais um em andamento.</p>
 
-
+![snake gif](https://github.com/LuizHenriqueDelPosoVilalva/LuizHenriqueDelPosoVilalva/blob/output/github-contribution-grid-snake.svg)
 
