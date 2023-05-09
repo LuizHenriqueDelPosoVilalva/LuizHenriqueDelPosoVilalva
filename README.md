@@ -5,12 +5,13 @@
   <a href="https://www.linkedin.com/in/luiz-henrique-delposovilalva/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p>Meu nome é Luiz Henrique Del Poso Vilalva, estou cursando Analise e Desenvolvimento de sistemas pela Universidade Federal de Mato Grosso do Sul – IFMS e alguns fiz outros cursos de programação para me aprimorar como o SejaDev.
+<p>Meu nome é Luiz Henrique Del Poso Vilalva, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Federal de Mato Grosso do Sul – IFMS e alguns fiz outros cursos de programação para me aprimorar como o SejaDev.
 
-Atuo na aréa de desenvolvimento web, front ou backend, possuo experiencia em comercio, atendimento a clientes, trabalho em equipe, tenho senso de urgência 
-aprendo rapido e gosto de trabalhar, mais sobre mim: <a href="https://meu-portfolio-lilac.vercel.app/" target="_blank">portifólio</a>.
+Atuo na área de desenvolvimento web, front ou backend, possuo experiência em comércio, atendimento a clientes, trabalho em equipe, tenho senso de urgência 
+aprendo rápido e gosto de trabalhar, mais sobre mim: <a href="https://meu-portfolio-lilac.vercel.app/" target="_blank">portifólio</a>.
 
-Atualmente estou aprendendo Python e TypeScript, tenho alguns projetos concluidos com React, todos eles no portfólio acima, e mais um em andamento.</p>
+Atualmente estou aprendendo Python e TypeScript, tenho alguns projetos concluídos com React, todos eles no portfólio acima, e mais um em andamento
+</p>
 
 
 ### Estudo:
