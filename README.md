@@ -14,7 +14,7 @@ aprendo rapido e gosto de trabalhar, mais sobre mim: <a href="https://meu-portfo
 Atualmente estou aprendendo Python e TypeScript, tenho alguns projetos concluidos com React, todos eles no portfólio acima, e mais um em andamento.</p>
 
 
-### Atualmente estudando:
+### Estudo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" height="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" height="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" height="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60px" height="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="60px" height="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60px" height="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px" height="60px"/>
 
