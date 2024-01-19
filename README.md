@@ -3,7 +3,7 @@
 # BEM VINDO AO MEU GITHUB
 <div>
   <a href="https://www.linkedin.com/in/luiz-henrique-delposovilalva/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizgarciaevilalva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
 
 <p>Meu nome é Luiz Henrique Del Poso Vilalva, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Federal de Mato Grosso do Sul – IFMS e alguns fiz outros cursos de programação para me aprimorar como o SejaDev.
